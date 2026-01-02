@@ -98,7 +98,9 @@ Open your browser and go to: `http://127.0.0.1:5000/`
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+<img width="850" height="700" alt="dashoard png" src="https://github.com/user-attachments/assets/4aecec00-c20f-4c2b-8b3b-13c5915847fa" />
 
+
+---
 
 **Created by [Heet Bhatt](https://www.google.com/search?q=https://github.com/heetbhatt05)**
